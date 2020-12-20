@@ -1,0 +1,13 @@
+target
+*.iml
+bin
+.class
+.svn
+.project
+.settings
+.classpath
+.externalToolBuilders
+.idea
+/.apt_generated/
+/.apt_generated_tests/
+.factorypath
